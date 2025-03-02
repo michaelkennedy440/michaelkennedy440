@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Portfolio  
 
-I'm **Michael Kennedy**, a programmer passionate about **innovation, creation, and hands-on problem-solving**. My GitHub serves as a **hub for my projects in AI, cybersecurity, data science, automation, and game development**.  
+I'm **Michael Kennedy**, a programmer passionate about **innovation, creation, and hands-on problem-solving** through creative and technical storytelling. My GitHub serves as a **hub for my big or small projects related to AI, cybersecurity, data science, automation, and game development**.  
 
 ### 🚀 **What I Do**
 - **I create** 🕹️ fun and interactive applications, from classic games to AI-driven tools.  
