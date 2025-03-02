@@ -1,21 +1,32 @@
 # 🎓 Education  
 
-### **The University of Denver – Daniels College of Business**  
+## **The University of Denver – Daniels College of Business**  
 📍 **Degree:** B.S. in Business Administration – Business Information & Analytics  
 📍 **Graduation:** June 2025  
 📍 **Minors:** Computer Science, Media, Film & Journalism  
 
-🔹 **Key Courses:**  
-- **Project Management & Data Simulation** – Modeling, risk analysis  
-- **Data Warehousing** – Database management, SQL  
-- **Automating Business Processes** – Python scripting, process optimization  
-- **Data Structures & Algorithms** – Computer science fundamentals  
-- **Data Mining & Visualization** – Machine learning, data analytics  
+🔹 **Key Courses & Focus Areas:**  
+- **Project Management & Data Simulation** – Modeled business scenarios, conducted Monte Carlo simulations, and analyzed risk factors to improve strategic decision-making.  
+- **Data Warehousing & SQL** – Designed and managed relational databases, optimized SQL queries, and built data pipelines for business intelligence applications.  
+- **Automating Business Processes** – Developed Python scripts to automate repetitive business tasks, improving operational efficiency.  
+- **Data Structures & Algorithms** – Gained a strong foundation in computational problem-solving, including sorting algorithms, recursion, and performance optimization.  
+- **Data Mining & Visualization** – Applied machine learning techniques such as clustering, classification, and predictive modeling for business insights.  
+- **Cybersecurity & Ethical Hacking** *(Upcoming Course – 2025)* – Hands-on exploration of penetration testing, vulnerability assessment, and network security fundamentals.  
 
-### **Vrije Universiteit Amsterdam (Study Abroad, Fall 2023)**  
-📍 Focused on **international business and technology applications**.  
+---
 
-### **Self-Learning & Certifications**  
-- **Alteryx Core Certified**  
-- **TryHackMe Cybersecurity Labs** (Pentesting, Networking, Ethical Hacking)  
-- **AI & Data Science Courses** (Coursera, Udemy)  
+## **Vrije Universiteit Amsterdam (Study Abroad, Fall 2023)**  
+📍 Focused on **media, technology applications, and natural language processing (NLP)** within an international business and research context.  
+
+🔹 **Key Studies:**  
+- **Media & Digital Culture** – Analyzed the impact of digital platforms on global business, media consumption, and technology-driven storytelling.  
+- **Natural Language Processing (NLP)** – Studied text analysis techniques, word embeddings, and sentiment analysis for AI-driven insights.  
+
+---
+
+## **Self-Learning & Certifications**  
+- **Alteryx Core Certified** – Demonstrated expertise in data blending, workflow automation, and advanced analytics.  
+- **TryHackMe Cybersecurity Labs** – Hands-on training in penetration testing, networking, web security, and ethical hacking techniques.  
+- **Ethical Hacking Experience (University of Denver Course, LinkedIn Learning)** – Completed courses on machine learning, deep learning, and artificial intelligence applications.  
+- **Power BI & Business Intelligence** – Gained proficiency in building interactive dashboards and data-driven reports for business decision-making.  
+
