@@ -24,9 +24,9 @@
 
 ---
 
-## **Self-Learning & Certifications**  
-- **Alteryx Core Certified** – Demonstrated expertise in data blending, workflow automation, and advanced analytics.  
-- **TryHackMe Cybersecurity Labs** – Hands-on training in penetration testing, networking, web security, and ethical hacking techniques.  
-- **Ethical Hacking Experience (University of Denver Course, LinkedIn Learning)** – Completed courses on machine learning, deep learning, and artificial intelligence applications.  
-- **Power BI & Business Intelligence** – Gained proficiency in building interactive dashboards and data-driven reports for business decision-making.  
+## **Certifications & Self-Learning**  
+-  **Python (Basic) Certification**  
+-  **Python (Advanced) Certification**  
+-  **Alteryx Core Certified**  
+-  **TryHackMe Cybersecurity Labs** (Pentesting, Networking, Ethical Hacking)  
 
