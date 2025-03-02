@@ -17,7 +17,7 @@
 ---
 
 ## 📡 **NASA Astronomy Picture of the Day (APOD)**  
-🔗 [GitHub Repo](https://github.com/michaelkennedy440/APOD)  
+🔗 [GitHub Repo](https://github.com/michaelkennedy440/APOD_Application)  
 🔹 **Tech Used:** Python, API Integration, Web Scraping  
 🔹 **What I Built:** A script that fetches and displays NASA's Astronomy Picture of the Day.  
 🔹 **Challenges:** Automating API requests and handling missing data.  
