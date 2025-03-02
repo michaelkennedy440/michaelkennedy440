@@ -1,5 +1,13 @@
 # 🚀 Projects  
 
+## 🗣️ **Pearl AI – Speech Translation & Logging**  
+🔗 [GitHub Repo](https://github.com/michaelkennedy440/Pearl.AI)  
+🔹 **Tech Used:** Python, NLP, Speech Recognition  
+🔹 **What I Built:** A speech-to-text translation tool that logs user interactions.  
+🔹 **Challenges:** Handling **multi-language support** and **real-time audio processing**.  
+
+---
+
 ## 🎮 **Pong Game Prototype**  
 🔗 [GitHub Repo](https://github.com/michaelkennedy440/PONG)  
 🔹 **Tech Used:** Python, Pygame  
@@ -15,10 +23,4 @@
 🔹 **Challenges:** Automating API requests and handling missing data.  
 🔹 **Impact:** Makes astronomy accessible through daily automated updates.  
 
----
 
-## 🗣️ **Pearl AI – Speech Translation & Logging**  
-🔗 [GitHub Repo](https://github.com/michaelkennedy440/Pearl.AI)  
-🔹 **Tech Used:** Python, NLP, Speech Recognition  
-🔹 **What I Built:** A speech-to-text translation tool that logs user interactions.  
-🔹 **Challenges:** Handling **multi-language support** and **real-time audio processing**.  
