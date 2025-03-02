@@ -12,11 +12,11 @@ I'm **Michael Kennedy**, a programmer passionate about **innovation, creation, a
 I’m seeking a **tech role** that fosters **creativity, problem-solving, and hands-on development**. I want to work in an environment where I can **blend my technical skills with my passion for AI, cybersecurity, and data-driven decision-making**.  
 
 ### 📌 **Explore My Portfolio:**  
-- 🛠️ **[Skills](skills.md)** – Technical & soft skills  
-- 💻 **[Projects](projects.md)** – A showcase of my work  
-- 💼 **[Work Experience](experience.md)** – My professional journey  
-- 🎓 **[Education](education.md)** – Key courses & self-learning  
-- 🎭 **[Extras](extras.md)** – Hobbies, leadership, and more  
+- 🛠️ **[Skills](SKILLS.md)** – Technical & soft skills  
+- 💻 **[Projects](PROJECTS.md)** – A showcase of my work  
+- 💼 **[Work Experience](EXPERIENCE.md)** – My professional journey  
+- 🎓 **[Education](EDUCATION.md)** – Key courses & self-learning  
+- 🎭 **[Extras](EXTRAS.md)** – Hobbies, leadership, and more  
 
 📫 **Contact Me:**  
 📍 Cleveland, OH  
