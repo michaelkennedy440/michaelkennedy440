@@ -18,7 +18,7 @@
 - **Tableau** – Basic knowledge of dashboard creation, visual analytics, and data storytelling.  
 
 ### **AI & Machine Learning:**  
-- **OpenAI API & NLP** – Experience in leveraging AI models for natural language processing (NLP) tasks such as text generation, sentiment analysis, and chatbot development.  
+- **OpenAI API & NLP** – Experience in leveraging AI models for natural language processing (NLP) tasks such as text generation, sentiment analysis, and chatbot development. 
 - **Machine Learning Model Training** – Hands-on experience in supervised and unsupervised learning techniques, feature engineering, and hyperparameter tuning.  
 - **Predictive Modeling** – Applying statistical models to forecast trends and patterns in data-driven projects.  
 - **Neural Networks** – Understanding of deep learning architectures, backpropagation, and training models using TensorFlow/Keras.  
