@@ -1,7 +1,7 @@
 # 🎭 Extras & Interests  
 
 ### **Leadership & Community Involvement**  
-- **Lambda Chi Alpha (University of Denver)** – Member (2021-Present)  
+- **AI/ML Guest Lecturer (University of Colorado)** – Speaker (2024-2025)  
 - **Film Production Club (University of Denver)** – Secretary (2023-Present)  
 - **Freeride Ski Team (University of Denver)** – Officer (2023-Present)  
 
