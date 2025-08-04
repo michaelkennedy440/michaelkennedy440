@@ -11,6 +11,16 @@
 
 ---
 
+## **Greater Cleveland Film Commission** – Production Intern (June 2025 – Present)  
+🔹 **Key Contributions:**  
+- Conducted **site assessments** across Northeast Ohio, evaluating logistical, financial, and operational suitability for high-budget TV/film productions.  
+- Maintained and organized the internal **location database**, enhancing searchability and improving data access for scouts and producers.  
+- Developed and pitched a fully formed **original television series**, including multi-season structure and market positioning strategy.  
+- Collaborated with staff and stakeholders to support **film development efforts** and regional film industry growth.  
+- Applied both **creative and analytical skills** in a professional media environment, bridging storytelling with business insights.  
+
+---
+
 ## **MPAC Construction Group** – Laborer (May 2020 - August 2021)  
 🔹 **Key Contributions:**  
 - Managed inventory for **3 warehouses** supporting restaurant construction projects, ensuring efficient tracking and material allocation.  
@@ -28,4 +38,5 @@
 - Assisted servers in delivering **high-quality service**, including food running, table maintenance, and guest interaction.  
 - Helped optimize **restaurant workflow and seating efficiency**, reducing wait times and improving overall guest satisfaction.  
 - Developed strong interpersonal skills, teamwork, and adaptability in a fast-paced, high-volume environment.  
+
 
